@@ -1,0 +1,9 @@
+{
+	"name": "brainac-DF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3938e29-d709-427b-89f1-fb0ce4c1b12b",
+		"tenantId": "c2a08c4e-235c-4f45-9ae9-18faaea37678"
+	}
+}

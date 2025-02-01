@@ -1,0 +1,13 @@
+{
+	"name": "AzureSynapseArtifacts1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://goldfintect-sy.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/0cb624a2-bb1f-432e-b2b5-c86b5c8ac4be/resourceGroups/brainac/providers/Microsoft.Synapse/workspaces/goldfintect-sy"
+		}
+	}
+}
